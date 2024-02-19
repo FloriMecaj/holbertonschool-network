@@ -1,1 +1,3 @@
-netstat -aon
+#!/usr/bin/env bash
+# xdfcgvhbjkn
+netstat -lp
